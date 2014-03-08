@@ -1,3 +1,0 @@
-#!/bin/sh
-
-[ -x /usr/lib/debathena-counterlog/athena-counterlog ] && /usr/lib/debathena-counterlog/athena-counterlog
